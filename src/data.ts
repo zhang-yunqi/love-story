@@ -1,5 +1,5 @@
 export const photos = [
-    { id: 1, src: "Image_61161263563646.jpg"},
+    { id: 1, src: "/public/Image_61161263563646.jpg"},
     { id: 2, src: 'Image_64892945605816.jpg'},
     { id: 3, src: 'Image_64894347890451.jpg'},
     { id: 4, src: 'Image_64896288322690.jpg'},
